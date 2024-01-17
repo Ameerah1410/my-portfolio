@@ -56,7 +56,7 @@ export default () => (
       <div className="project">
         <h2>todo app with authentication</h2>
         <p>
-          his is a basic to-do application developed using React and Express.
+          This is a basic to-do application developed using React and Express.
           Users have the ability to add, edit, and delete tasks. Authentication
           is implemented through JWT tokens, with additional middleware for user
           registration, sign-in, and task protection.
